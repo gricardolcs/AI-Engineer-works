@@ -1,0 +1,108 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [5 0 R 7 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >>
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 3818 >>
+stream
+q
+0.94 0.96 0.99 rg
+0 760 595 82 re f
+Q
+0.20 0.35 0.60 RG 1 w
+52 756 m 543 756 l S
+BT /F4 24 Tf 1 0 0 1 52 790 Tm (Plan Intensivo - Semana 1) Tj ET
+BT /F3 12 Tf 1 0 0 1 52 762 Tm (Ruta de 15 horas para construir base AI full-stack) Tj ET
+BT /F4 15 Tf 1 0 0 1 52 736 Tm (Objetivo) Tj ET
+BT /F3 11 Tf 1 0 0 1 52 716 Tm (Construir una base funcional de app AI full-stack en TypeScript \\(backend + frontend + base de datos\\) y dejarla lista para integrar LLMs.) Tj ET
+BT /F4 15 Tf 1 0 0 1 52 694 Tm (Tiempo total) Tj ET
+BT /F3 11 Tf 1 0 0 1 52 674 Tm (15 horas) Tj ET
+BT /F4 15 Tf 1 0 0 1 52 652 Tm (Resultados esperados) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 632 Tm (- API backend funcional con validacion y manejo de errores.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 618 Tm (- UI React basica conectada al backend.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 604 Tm (- Persistencia SQL para conversaciones.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 590 Tm (- Logging minimo y estructura de proyecto profesional.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 576 Tm (- Mini demo de 5 minutos explicando arquitectura y decisiones.) Tj ET
+BT /F4 15 Tf 1 0 0 1 52 554 Tm (Cronograma diario) Tj ET
+BT /F4 12 Tf 1 0 0 1 52 534 Tm (Lunes \\(2h\\): Arquitectura y setup) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 518 Tm (- Definir alcance del mini producto: chat interno con historial.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 504 Tm (- Disenar arquitectura: frontend, API y DB.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 490 Tm (- Crear backlog de tareas.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 476 Tm (- Entregable: diagrama + endpoints + esquema inicial.) Tj ET
+BT /F4 12 Tf 1 0 0 1 52 462 Tm (Martes \\(3h\\): Backend base en TypeScript) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 446 Tm (- Estructura backend: rutas, servicios y capa de datos.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 432 Tm (- Endpoint health y create/read conversation.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 418 Tm (- Validacion de entrada y errores consistentes.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 404 Tm (- Entregable: API con al menos 3 endpoints tipados.) Tj ET
+BT /F4 12 Tf 1 0 0 1 52 390 Tm (Miercoles \\(3h\\): SQL y persistencia) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 374 Tm (- Tablas: users, conversations y messages.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 360 Tm (- Insercion y consulta de mensajes.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 346 Tm (- Migracion inicial y datos de prueba.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 332 Tm (- Entregable: guardar y leer conversacion desde DB.) Tj ET
+BT /F4 12 Tf 1 0 0 1 52 318 Tm (Jueves \\(3h\\): Frontend React funcional) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 302 Tm (- UI minima: lista de mensajes + input + envio.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 288 Tm (- Conexion frontend-api.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 274 Tm (- Manejo de loading, errores y estado vacio.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 260 Tm (- Entregable: chat funcional end-to-end \\(sin LLM\\).) Tj ET
+BT /F4 12 Tf 1 0 0 1 52 246 Tm (Viernes \\(2h\\): Calidad y observabilidad) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 230 Tm (- Logging estructurado en backend.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 216 Tm (- Manejo de timeouts y errores de red en frontend.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 202 Tm (- Pruebas minimas: endpoint y flujo UI basico.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 188 Tm (- Entregable: checklist de estabilidad y fallos conocidos.) Tj ET
+BT /F4 12 Tf 1 0 0 1 52 174 Tm (Sabado \\(2h\\): Entrevista y narrativa en ingles) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 158 Tm (- Preparar pitch tecnico de 90 segundos.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 144 Tm (- Explicar decisiones: API, DB y manejo de errores.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 130 Tm (- Simular preguntas de entrevista.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 116 Tm (- Entregable: guion corto listo para practicar.) Tj ET
+BT /F4 15 Tf 1 0 0 1 52 94 Tm (Checklist de cierre semanal) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 74 Tm ([ ] La app levanta localmente sin pasos confusos.) Tj ET
+
+endstream
+endobj
+7 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 595 842] /Resources << /Font << /F3 3 0 R /F4 4 0 R >> >> /Contents 8 0 R >>
+endobj
+8 0 obj
+<< /Length 420 >>
+stream
+q
+0.94 0.96 0.99 rg
+0 760 595 82 re f
+Q
+0.20 0.35 0.60 RG 1 w
+52 756 m 543 756 l S
+BT /F3 11 Tf 1 0 0 1 62 790 Tm ([ ] Puedes crear conversacion y leer historial.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 776 Tm ([ ] Manejo de errores consistente en API y UI.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 762 Tm ([ ] Puedes explicar la arquitectura en 3 minutos.) Tj ET
+BT /F3 11 Tf 1 0 0 1 62 748 Tm ([ ] Notas de mejoras para semana 2.) Tj ET
+
+endstream
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000266 00000 n 
+0000000402 00000 n 
+0000004272 00000 n 
+0000004408 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+4879
+%%EOF

@@ -1,0 +1,112 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [4 0 R 6 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 5 0 R >>
+endobj
+5 0 obj
+<< /Length 1861 >>
+stream
+BT
+/F1 12 Tf
+50 800 Td
+16 TL
+(Plan Intensivo - Semana 1 \\(15 horas\\)) Tj
+T* () Tj
+T* (Objetivo de la semana:) Tj
+T* (Construir una base funcional de app AI full-stack en TypeScript) Tj
+T* (\\(backend + frontend + base de datos\\) y dejarla lista para integrar LLMs.) Tj
+T* () Tj
+T* (Tiempo total:) Tj
+T* (15 horas) Tj
+T* () Tj
+T* (Resultado esperado al final de la semana:) Tj
+T* (1. API backend funcional con validacion y manejo de errores.) Tj
+T* (2. UI React basica conectada al backend.) Tj
+T* (3. Persistencia SQL para conversaciones.) Tj
+T* (4. Logging minimo y estructura de proyecto profesional.) Tj
+T* (5. Mini demo de 5 minutos explicando arquitectura y decisiones.) Tj
+T* () Tj
+T* (Plan diario:) Tj
+T* (Lunes \\(2h\\): Arquitectura y setup.) Tj
+T* (- Definir alcance del mini producto: chat interno con historial.) Tj
+T* (- Disenar arquitectura: frontend, API, DB.) Tj
+T* (- Crear backlog de tareas.) Tj
+T* (- Entregable: diagrama + endpoints + esquema inicial.) Tj
+T* () Tj
+T* (Martes \\(3h\\): Backend base en TypeScript.) Tj
+T* (- Estructura backend: rutas, servicios, capa de datos.) Tj
+T* (- Endpoint health y create/read conversation.) Tj
+T* (- Validacion de entrada y errores consistentes.) Tj
+T* (- Entregable: API con al menos 3 endpoints tipados.) Tj
+T* () Tj
+T* (Miercoles \\(3h\\): SQL y persistencia.) Tj
+T* (- Tablas: users, conversations, messages.) Tj
+T* (- Insercion y consulta de mensajes.) Tj
+T* (- Migracion inicial y datos de prueba.) Tj
+T* (- Entregable: guardar y leer conversacion desde DB.) Tj
+T* () Tj
+T* (Jueves \\(3h\\): Frontend React funcional.) Tj
+T* (- UI minima: lista de mensajes + input + envio.) Tj
+T* (- Conexion frontend-api.) Tj
+T* (- Manejo de loading, errores y estado vacio.) Tj
+T* (- Entregable: chat funcional end-to-end \\(sin LLM\\).) Tj
+T* () Tj
+T* (Viernes \\(2h\\): Calidad y observabilidad.) Tj
+ET
+
+endstream
+endobj
+6 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 842] /Resources << /Font << /F1 3 0 R >> >> /Contents 7 0 R >>
+endobj
+7 0 obj
+<< /Length 830 >>
+stream
+BT
+/F1 12 Tf
+50 800 Td
+16 TL
+(- Logging estructurado en backend.) Tj
+T* (- Manejo de timeouts y errores de red en frontend.) Tj
+T* (- Pruebas minimas: endpoint y flujo UI basico.) Tj
+T* (- Entregable: checklist de estabilidad y fallos conocidos.) Tj
+T* () Tj
+T* (Sabado \\(2h\\): Entrevista y narrativa en ingles.) Tj
+T* (- Preparar pitch tecnico de 90 segundos.) Tj
+T* (- Explicar decisiones: API, DB, errores.) Tj
+T* (- Simular preguntas de entrevista.) Tj
+T* (- Entregable: guion corto listo para practicar.) Tj
+T* () Tj
+T* (Checklist de cierre semanal:) Tj
+T* (1. La app levanta localmente sin pasos confusos.) Tj
+T* (2. Puedes crear conversacion y leer historial.) Tj
+T* (3. Manejo de errores consistente en API y UI.) Tj
+T* (4. Puedes explicar la arquitectura en 3 minutos.) Tj
+T* (5. Notas de mejoras para semana 2.) Tj
+ET
+
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000191 00000 n 
+0000000317 00000 n 
+0000002230 00000 n 
+0000002356 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+3237
+%%EOF
