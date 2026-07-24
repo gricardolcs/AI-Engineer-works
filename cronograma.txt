@@ -1,0 +1,15 @@
+Semana 1: Fundamentos de Programación y LLMs
+Día 1-2: Aprende Python moderno, manejo de datos en JSON y llamadas a APIs REST.
+Día 3-4: Explora cómo funcionan los modelos de OpenAI, Anthropic y modelos abiertos en Hugging Face.
+Día 5-7: Practica la ingeniería de prompts y el uso de system prompts.
+Semana 2: Arquitectura RAG (Recuperación y Generación Aumentada)
+Día 8-10: Aprende a usar bases de datos vectoriales como Pinecone o Chroma.
+Día 11-13: Implementa la carga de documentos, fragmentación (chunking) y embeddings.
+Día 14: Conecta tu base de datos a un LLM para responder preguntas sobre datos privados.
+Semana 3: Agentes y Frameworks
+Día 15-18: Domina herramientas de orquestación como LangChain o LlamaIndex para flujos avanzados.
+Día 19-21: Diseña agentes de IA capaces de usar herramientas externas, ejecutar código y buscar en internet.
+Semana 4: Optimización, Evaluación y Producción
+Día 22-24: Evalúa la precisión de tus respuestas con marcos como Ragas o Phoenix.
+Día 25-27: Optimiza costos, latencia y aplica técnicas de fine-tuning básico si es necesario.
+Día 28: Despliega tu aplicación usando Docker y una API en FastAPI.
